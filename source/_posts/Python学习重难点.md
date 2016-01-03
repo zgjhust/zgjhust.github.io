@@ -13,3 +13,4 @@ sldkfjlsakdjfslkdfjsldkfj
 sldkfjsaldkfjlskdjfalskdjfslkdfj
 ## 闭包（enclosure）
 alskdjfalskdjflaskdfjlaksdfjalskdfj
+![一只大嘴猴](/images/monkey.jpg)
